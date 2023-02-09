@@ -1,0 +1,16 @@
+id: I662F8F4F
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:40:38.198134
+last_modified: 2023-02-09 14:40:38.198229
+source_metadata:
+  title: 'BA: Daśabhūmikasūtra'
+  language: bo
+bases:
+  F49C:
+    base_file: F49C.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

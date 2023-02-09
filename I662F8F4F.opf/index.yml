@@ -1,0 +1,11 @@
+id: 653d2660695a45e1b44b8b0086bccf92
+annotation_type: index
+revision: '00001'
+annotations:
+  d1354c5e5f084f9db3e0552618416fea:
+    base: F49C.txt
+    Chapters:
+    - title: ''
+      span:
+        start: 0
+        end: 85649
